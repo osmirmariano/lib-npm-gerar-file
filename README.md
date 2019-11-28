@@ -1,0 +1,1 @@
+# lib-npm-gerar-file
